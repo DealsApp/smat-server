@@ -8,7 +8,7 @@ var StoreCategories=require('../models/storecategory');
 var RedeemedDeal=require('../models/redeem');
 
 // var expressJwt = require('express-jwt');  
-// var authenticateJwt = expressJwt({secret : 'smatserver201623111990'});
+// var authenticateJwt = expressJwt({secret : ''});
 
 /*
 api endpoint: /deals/getlocaldeals
