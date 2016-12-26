@@ -1,0 +1,42 @@
+[
+  {
+    "dealtypeid": "1",
+    "TypeName": "Printable Coupon"
+  },
+  {
+    "dealtypeid": "2",
+    "TypeName": "Tip"
+  },
+  {
+    "dealtypeid": "3",
+    "TypeName": "Sale"
+  },
+  {
+    "dealtypeid": "4",
+    "TypeName": "Special"
+  },
+  {
+    "dealtypeid": "5",
+    "TypeName": "Always cheap"
+  },
+  {
+    "dealtypeid": "6",
+    "TypeName": "Coupon Code"
+  },
+  {
+    "dealtypeid": "7",
+    "TypeName": "Happy Hour"
+  },
+  {
+    "dealtypeid": "8",
+    "TypeName": "Free Stuff"
+  },
+  {
+    "dealtypeid": "18381",
+    "TypeName": "Deals-of-the-Day"
+  },
+  {
+    "userid": "18381",
+    "TypeName": "Deals-of-the-Day"
+  }
+]
